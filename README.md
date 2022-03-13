@@ -7,4 +7,4 @@ New features !:
 - SafeMath library was removed
 - Ownable functions have been implemented
 - Burn function implementation
-
+Marcos Don, aka: Quimio
